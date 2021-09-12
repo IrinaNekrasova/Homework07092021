@@ -1,0 +1,16 @@
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\obj\Debug\net5.0\Homework0709.csproj.AssemblyReference.cache
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\obj\Debug\net5.0\Homework0709.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\obj\Debug\net5.0\Homework0709.AssemblyInfoInputs.cache
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\obj\Debug\net5.0\Homework0709.AssemblyInfo.cs
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\obj\Debug\net5.0\Homework0709.csproj.CoreCompileInputs.cache
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\bin\Debug\net5.0\Homework0709.exe
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\bin\Debug\net5.0\Homework0709.deps.json
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\bin\Debug\net5.0\Homework0709.runtimeconfig.json
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\bin\Debug\net5.0\Homework0709.runtimeconfig.dev.json
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\bin\Debug\net5.0\Homework0709.dll
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\bin\Debug\net5.0\ref\Homework0709.dll
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\bin\Debug\net5.0\Homework0709.pdb
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\obj\Debug\net5.0\Homework0709.dll
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\obj\Debug\net5.0\ref\Homework0709.dll
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\obj\Debug\net5.0\Homework0709.pdb
+C:\Users\irina\Desktop\LU VUMC C#\07092021HW\Homework0709\Homework0709\obj\Debug\net5.0\Homework0709.genruntimeconfig.cache
